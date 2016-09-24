@@ -17,7 +17,7 @@ $(document).ready(function(){
 			name:"Old Testament Prophet"
 		},
 		{
-	    	quote:"Art exist to express the insanity of it all, those who partake are not immune",
+	    	quote:"Art exist to express the insanity of it all, those who partake are not immune.",
 	    	name:"Life"
 	    },
 	    {
