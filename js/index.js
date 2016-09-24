@@ -5,7 +5,7 @@ $(document).ready(function(){
 			name: "Life"
 		},
 		{
-			quote: "I want to hsare the lessons I have learned without passing judgment.",
+			quote: "I want to share the lessons I have learned without passing judgment.",
 			name: "Life"
 		},
 		{
