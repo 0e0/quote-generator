@@ -1,6 +1,14 @@
 $(document).ready(function(){
 		var quoteSource=[
 		{
+			quote: "Stop when I am 80% full.",
+			name: "Okinawan Woman"
+		},
+		{
+			quote: "If you forgive every moment - allow it to be as it is - then there will be no accumulation of resentment that needs to be forgiven at some later time.",
+			name: "Eckhart Tolle"
+		},
+		{
 			quote: "Would you sell your arm for one million dollars?",
 			name: "Life"
 		},
